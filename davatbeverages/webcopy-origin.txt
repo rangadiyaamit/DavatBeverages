@@ -1,0 +1,1412 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\npm\bootstrap-icons@1.8.1\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/fonts/bootstrap-icons.woff2?524846017b983fc8ded9325d94ed40f3
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\npm\bootstrap-icons@1.8.1\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/fonts/bootstrap-icons.woff?524846017b983fc8ded9325d94ed40f3
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\npm\bootstrap-icons@1.8.1\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/notosans/v39/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAaBN9d.ttf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\s\notosans\v39\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAaBN9d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v39/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAjBN9d.ttf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\s\notosans\v39\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAjBN9d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v39/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9A99d.ttf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\s\notosans\v39\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9A99d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v39/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9BN9d.ttf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\s\notosans\v39\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9BN9d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v39/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyBUBN9d.ttf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\s\notosans\v39\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyBUBN9d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v39/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyCjA99d.ttf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\s\notosans\v39\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyCjA99d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v39/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d.ttf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\s\notosans\v39\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v39/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9At9d.ttf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\s\notosans\v39\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9At9d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v39/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d.ttf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\s\notosans\v39\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d.ttf
+Content Type: font/ttf
+
+Uri: https://www.davatbeverages.com/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/404-2/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\404-2\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/404-2/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\404-2\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/about-us/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\about-us\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/about-us/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\about-us\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/awards-certifications-2/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\awards-certifications-2\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/awards-certifications-2/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\awards-certifications-2\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/blood-donation-camp/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\blood-donation-camp\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/blood-donation-camp/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\blood-donation-camp\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/contact/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\contact\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/contact/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\contact\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/csr-activity/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\csr-activity\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/csr-activity/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\csr-activity\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/csr-diwali-celebration/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\csr-diwali-celebration\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/csr-diwali-celebration/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\csr-diwali-celebration\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/csr-uttarayan-celebration/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\csr-uttarayan-celebration\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/csr-uttarayan-celebration/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\csr-uttarayan-celebration\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/investing-tomorrow-leaders/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\investing-tomorrow-leaders\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/investing-tomorrow-leaders/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\investing-tomorrow-leaders\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/media/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\media\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/media/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\media\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/our-differentiator/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\our-differentiator\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/our-differentiator/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\our-differentiator\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/our-products/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\our-products\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/our-products/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\our-products\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/values/"
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\values\.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/"https:/www.davatbeverages.com/values/embed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\https\www.davatbeverages.com\values\embed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/404-2/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\404-2\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=1010
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=1086
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-10.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=1301
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-11.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=1325
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=1332
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-9.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=135
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=1455
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-12.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=15
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=17
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-3.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=19
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-8.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=21
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-5.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=23
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-7.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/?p=670
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\index-13.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/about-us/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/awards-certifications-2/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\awards-certifications-2\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/blood-donation-camp/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\blood-donation-camp\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/comments/feed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\comments\feed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/contact/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/csr-activity/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\csr-activity\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/csr-diwali-celebration/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\csr-diwali-celebration\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/csr-uttarayan-celebration/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\csr-uttarayan-celebration\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/feed/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\feed\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/investing-tomorrow-leaders/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\investing-tomorrow-leaders\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/media/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\media\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/our-differentiator/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\our-differentiator\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/our-products/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\our-products\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/values/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\values\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\instagram-feed\css\sbi-styles.min.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/instagram-feed/img/sbi-sprite.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\instagram-feed\img\sbi-sprite.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/images/black_icon_next.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\images\black_icon_next.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/images/black_icon_prev.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\images\black_icon_prev.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/images/black_lightbox_video.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\images\black_lightbox_video.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/images/black_lightbox_zoom.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\images\black_lightbox_zoom.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/images/black_slide_link.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\images\black_slide_link.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/images/icon_next.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\images\icon_next.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/images/icon_prev.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\images\icon_prev.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/images/lightbox_video.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\images\lightbox_video.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/images/lightbox_zoom.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\images\lightbox_zoom.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/images/slide_link.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\images\slide_link.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/js/jquery.mousewheel.min.js?ver=3.1.13
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\js\jquery.mousewheel.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/css/lightgallery-bundle.min.css?ver=2.5.0
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\css\lightgallery-bundle.min.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/css/lightgallery.css?ver=2.5.0
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\css\lightgallery.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/fonts/lg.svg?io9a6k
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/fonts/lg.ttf?io9a6k
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\fonts\lg.ttf
+Content Type: font/ttf
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/fonts/lg.woff2?io9a6k
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\fonts\lg.woff2
+Content Type: font/woff2
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/fonts/lg.woff?io9a6k
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/images/loading.gif
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\images\loading.gif
+Content Type: image/gif
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/lightgallery.min.js?ver=2.5.0
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\lightgallery.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/player.min.js?ver=2.17.1
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\player.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/plugins/autoplay/lg-autoplay.min.js?ver=2.5.0
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\plugins\autoplay\lg-autoplay.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/plugins/video/lg-video.min.js?ver=2.5.0
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\plugins\video\lg-video.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/lightgallery/plugins/zoom/lg-zoom.min.js?ver=2.5.0
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\lightgallery\plugins\zoom\lg-zoom.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/owl-carousel/animate.min.css?ver=2.0
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\owl-carousel\animate.min.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/owl-carousel/owl.carousel.css?ver=2.2.1.1
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/owl-carousel/owl.carousel.min.js?ver=2.2.1
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/owl-carousel/owl.carousel2.thumbs.min.js?ver=0.1.8
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\owl-carousel\owl.carousel2.thumbs.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/owl-carousel/owl.video.play.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\owl-carousel\owl.video.play.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/slide-anything/owl-carousel/sa-owl-theme.css?ver=2.0
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\slide-anything\owl-carousel\sa-owl-theme.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/wpcf7-recaptcha/assets/js/wpcf7-recaptcha-controls.js?ver=1.2
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\wpcf7-recaptcha\assets\js\wpcf7-recaptcha-controls.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=1.1
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\wpcf7-redirect\build\css\wpcf7-redirect-frontend.min.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/plugins/wpcf7-redirect/build/js/wpcf7r-fe.js?ver=1.1
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\plugins\wpcf7-redirect\build\js\wpcf7r-fe.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/bootstrap.min.css?ver=5.1.3
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/owl.carousel.min.css?ver=2.3.4
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1069836539
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-18.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1109011988
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-6.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1144716019
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-23.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1180175882
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-20.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=118911356
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-13.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=13727558
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-12.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1442257473
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-19.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1484102585
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-25.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1508703624
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-24.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1657939977
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-5.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1668703034
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-3.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1688577339
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-9.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1709516809
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-14.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1923338772
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-8.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1969234706
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-22.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=1982337860
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-26.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=2064188432
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-21.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=213130289
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-2.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=352709195
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-7.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=370696191
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-17.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=418704257
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=555251371
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-10.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=733453871
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-15.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=821039373
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-11.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=837499971
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-4.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=942135224
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-1.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/css/style.css?ver=961506413
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\css\style-16.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/fonts/anydore/Anydore.ttf.eot
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\fonts\anydore\Anydore.ttf.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/fonts/anydore/Anydore.ttf.svg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\fonts\anydore\Anydore.ttf.svg
+Content Type: image/svg+xml
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/fonts/anydore/Anydore.ttf.woff
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\fonts\anydore\Anydore.ttf.woff
+Content Type: font/woff
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/fonts/BebasNeue-Regular_0.otf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\fonts\BebasNeue-Regular_0.otf
+Content Type: font/otf
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/fonts/BebasNeue.otf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\fonts\BebasNeue.otf
+Content Type: font/otf
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/fonts/Wreath-HalBol.ttf
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\fonts\Wreath-HalBol.ttf
+Content Type: font/ttf
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/image/contact-bg.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\image\contact-bg.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/image/milestones-bg.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\image\milestones-bg.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/image/product-bg.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\image\product-bg.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/bootstrap.bundle.min.js?ver=5.1.3
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/gsap.min.js?ver=3.9.1
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/owl.carousel.min.js?ver=2.3.4
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1067125542
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-7.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1067476941
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-8.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1154131515
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-3.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1185303433
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-19.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1212098775
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-20.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1380162142
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-17.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=146113152
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1502201627
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-21.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1558519303
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-24.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1578411014
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-25.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1668669517
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-11.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1789503366
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-14.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1790250539
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-4.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1884217771
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-10.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=1999891472
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-1.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=218223937
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-6.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=306447791
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-23.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=319996104
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-9.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=382284252
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-26.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=488223647
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-15.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=530165499
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-12.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=584701054
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-5.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=605997195
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-16.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=76940464
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-18.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=869162064
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-22.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=870456702
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-2.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/themes/davat/assets/js/script.js?ver=930051834
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\themes\davat\assets\js\script-13.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/698.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\698.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/about-hero-banner.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\about-hero-banner.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/CAN-MALTY-90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\CAN-MALTY-90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/CHANGER-90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\CHANGER-90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/Changer-CAN-New-01-288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\Changer-CAN-New-01-288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/contact-banner.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\contact-banner.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/davat-logo-150x134.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\davat-logo-150x134.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/davat-logo.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\davat-logo.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/GREEN-G-90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\GREEN-G-90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/GUAVA90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\GUAVA90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/image-22.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\image-22.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/JEERA-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\JEERA-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/Limpoo90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\Limpoo90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/LIMUN90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\LIMUN90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/LOVE-APPLE90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\LOVE-APPLE90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/LYCHEE90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\LYCHEE90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/MALTY-CAN-MOCKUP-6-05-Flatten288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\MALTY-CAN-MOCKUP-6-05-Flatten288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/MALTY90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\MALTY90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/mozzy90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\mozzy90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/ORANGE90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\ORANGE90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/PEPYO90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\PEPYO90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/powermode-cosmopolitan.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\powermode-cosmopolitan.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/powermode-ginger-lemon.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\powermode-ginger-lemon.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/powermode-jamun.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\powermode-jamun.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/powermode-orange.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\powermode-orange.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/powermode-verry-berry.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\powermode-verry-berry.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/SODA90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\SODA90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/values-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\values-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/values-2.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\values-2.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/values-3.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\values-3.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/values-4.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\values-4.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/values-5.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\values-5.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/values-6.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\values-6.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/vision.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\vision.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/WATER-90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\WATER-90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/02/water-bottle-880px.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\02\water-bottle-880px.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/03/HERBY-800PXL.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\03\HERBY-800PXL.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/03/herby-img.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\03\herby-img.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/03/illustration-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\03\illustration-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/03/illustration-2.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\03\illustration-2.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/03/illustration-3.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\03\illustration-3.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/03/jera-slide-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\03\jera-slide-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/03/Media-01.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\03\Media-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/03/new-2sroty-1.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\03\new-2sroty-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/03/new-IMG_7462.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\03\new-IMG_7462.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/03/new-sroty-1-1.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\03\new-sroty-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/03/new-sroty-1.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\03\new-sroty-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/04/banner-001-sq.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\04\banner-001-sq.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/04/Davat-Distributor-Meet-2022.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\04\Davat-Distributor-Meet-2022.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/04/RBL-Cricket-Season-2.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\04\RBL-Cricket-Season-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/22423-LOVE-APPLE-160288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\22423-LOVE-APPLE-160288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/22423-MALTY-160-CHANGES-CAP288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\22423-MALTY-160-CHANGES-CAP288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/BERRY288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\BERRY288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/CHANGER-BERRY-90.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\CHANGER-BERRY-90.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/GREEN-G-160-CAP288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\GREEN-G-160-CAP288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/Guava_160ml288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\Guava_160ml288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/JEERA-160-CAP288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\JEERA-160-CAP288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/Limpoo_160ml288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\Limpoo_160ml288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/LIMUN-160-CAP288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\LIMUN-160-CAP288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/Lychee_160ml288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\Lychee_160ml288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/Mozzy_160ml288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\Mozzy_160ml288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/ORANGE-160-CAP288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\ORANGE-160-CAP288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/PEPYO-NEW-BOTTLE-F288.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\PEPYO-NEW-BOTTLE-F288.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2022/10/SODA-750ML2880.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2022\10\SODA-750ML2880.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2023/01/NEW_Davat_FINAL_Logo_2023_WEB_.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2023\01\NEW_Davat_FINAL_Logo_2023_WEB_.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2023/07/125_ML-Tetra-Pack-Mockup_New-Mozzy-copy-V2-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2023\07\125_ML-Tetra-Pack-Mockup_New-Mozzy-copy-V2-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2023/07/125_ML-Tetra-Pack-Mockup_New-Orange-2-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2023\07\125_ML-Tetra-Pack-Mockup_New-Orange-2-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2023/07/props-Slider01-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2023\07\props-Slider01-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2023/07/props-Slider04-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2023\07\props-Slider04-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2023/07/Slider01-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2023\07\Slider01-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2023/07/Slider04-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2023\07\Slider04-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2023/11/CSR-Diwali-Celebration-01.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2023\11\CSR-Diwali-Celebration-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2023/11/CSR-Diwali-Celebration-02.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2023\11\CSR-Diwali-Celebration-02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2023/11/CSR-Diwali-Celebration-03.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2023\11\CSR-Diwali-Celebration-03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2023/11/CSR-Diwali-Celebration-04.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2023\11\CSR-Diwali-Celebration-04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/01/davat-csr-title.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\01\davat-csr-title.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/01/diwali-csr-01.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\01\diwali-csr-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/01/Uttarayan-Celebration-2.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\01\Uttarayan-Celebration-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/01/Uttarayan-Celebration1.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\01\Uttarayan-Celebration1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/01/Uttarayan.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\01\Uttarayan.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/03/Cranberry-Orange-Lemon-Tetra_Packet.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\03\Cranberry-Orange-Lemon-Tetra_Packet.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/03/Guava-Tetra_Packet.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\03\Guava-Tetra_Packet.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/03/Lemon-Apple-Tetra_Packet.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\03\Lemon-Apple-Tetra_Packet.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/03/Lemon-Orange-Tetra_Packet.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\03\Lemon-Orange-Tetra_Packet.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/03/Lychee-Tetra_Packet.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\03\Lychee-Tetra_Packet.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/03/Pineapple-Tetra_Packet.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\03\Pineapple-Tetra_Packet.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/04/Banner-01-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\04\Banner-01-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/04/Banner-02.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\04\Banner-02.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/04/Banner-03.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\04\Banner-03.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/04/Banner-04-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\04\Banner-04-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/04/Limon-Pudina-Tetra-_Packet-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\04\Limon-Pudina-Tetra-_Packet-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/01.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/1-Web-Oxx-Classic.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\1-Web-Oxx-Classic.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/1-Web-Oxx-Prime.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\1-Web-Oxx-Prime.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/2.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\2.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/3.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/4.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/5.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/6.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/7.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/8.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/Asset-1.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\Asset-1.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/Award-Fastest-Growing-2024-Webside-Banner-01.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\Award-Fastest-Growing-2024-Webside-Banner-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/Award-Media-700x989_1668x928-1.jpeg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\Award-Media-700x989_1668x928-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/Awards-Certifications.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\Awards-Certifications.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/Investing-Tomorrow-Leaders.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\Investing-Tomorrow-Leaders.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/link-tree-logo.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\link-tree-logo.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/our-media.png
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\our-media.png
+Content Type: image/png
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/sungrow-emea-ceTSHQ0qars-unsplash-e1718710967648.jpeg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\sungrow-emea-ceTSHQ0qars-unsplash-e1718710967648.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/06/Web-Banner-01.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\06\Web-Banner-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/08/blood-camp-01-1.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\08\blood-camp-01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/08/blood-camp-01-2.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\08\blood-camp-01-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/08/blood-camp-01-3.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\08\blood-camp-01-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/08/blood-camp-01-4.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\08\blood-camp-01-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/08/blood-camp-01.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\08\blood-camp-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/08/blood-camp.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\08\blood-camp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/08/SOFT-COPY-OF-DAVAT-BEVERAGES-PVT.-LTD-22001.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\08\SOFT-COPY-OF-DAVAT-BEVERAGES-PVT.-LTD-22001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-content/uploads/2024/08/SOFT-COPY-OF-DAVAT-BEVERAGES-PVT.-LTD-9001.jpg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-content\uploads\2024\08\SOFT-COPY-OF-DAVAT-BEVERAGES-PVT.-LTD-9001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.davatbeverages.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://www.davatbeverages.com/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.17
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\js\mediaelement\renderers\vimeo.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://www.davatbeverages.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/javascript
+
+Uri: https://www.davatbeverages.com/wp-json/
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\index.htm
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-1.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2F404-2%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-26.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2F404-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-27.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-2.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-3.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fawards-certifications-2%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-8.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fawards-certifications-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-9.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fblood-donation-camp%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-24.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fblood-donation-camp%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-25.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-14.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-15.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fcsr-activity%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-12.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fcsr-activity%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-13.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fcsr-diwali-celebration%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-18.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fcsr-diwali-celebration%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-19.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fcsr-uttarayan-celebration%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-20.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fcsr-uttarayan-celebration%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-21.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Finvesting-tomorrow-leaders%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-22.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Finvesting-tomorrow-leaders%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-23.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fmedia%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-10.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fmedia%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-11.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Four-differentiator%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-16.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Four-differentiator%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-17.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Four-products%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-6.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Four-products%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-7.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fvalues%2F
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-4.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.davatbeverages.com%2Fvalues%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\oembed\1.0\embed-5.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/1010
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\1010.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/1086
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\1086.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/1301
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\1301.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/1325
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\1325.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/1332
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\1332.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/135
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\135.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/1455
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\1455.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/15
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\15.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\17.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/19
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\19.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/21
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\21.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/23
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\23.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/670
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\670.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/wp-json/wp/v2/pages/711
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\wp-json\wp\v2\pages\711.html
+Content Type: text/html
+
+Uri: https://www.davatbeverages.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.facebook.com/tr?id=1706021093171975&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\tr
+Content Type: text/plain
+
+Uri: https://www.google.com/recaptcha/api.js?hl=en_US&onload=recaptchaCallback&render=explicit&ver=2.0
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-50YHBQKEGX
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-ML46Z7ZGFL
+File Name: C:\Downloaded Web Sites\www.davatbeverages.com\gtag\js-1
+Content Type: application/javascript
+
